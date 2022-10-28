@@ -1,14 +1,23 @@
-h1 {color: #ff0000;
-font-size: 2.75em;
+h1 {
+    color: #ff0000;
+    font-size: 2.75em;
 }
-p {color: #00008f;
+
+p {
+    color: #00008f;
 }
-h1 + p {color: #a42423;
+
+h1+p {
+    color: #a42423;
 }
-p {font-size: xx-large;
-margin-top: 50px;
+
+p {
+    font-size: xx-large;
+    margin-top: 50px;
 }
-#square {background-color: #faebd6;
-width: 1200px;
-height: 500px;
+
+#square {
+    background-color: #faebd6;
+    width: 1200px;
+    height: 500px;
 }
